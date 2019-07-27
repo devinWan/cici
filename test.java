@@ -18,4 +18,11 @@ class Test{
     public static void testAfter2(){
         System.out.println("hello testAfter2");
     }
+
+    public void con1(){
+        System.out.println("hello con1");
+    }
+    public void con2(){
+        System.out.println("hello con1");
+    }
 }
