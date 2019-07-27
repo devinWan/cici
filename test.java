@@ -18,4 +18,6 @@ class Test{
     public static void testAfter2(){
         System.out.println("hello testAfter2");
     }
+
+    //我能怎么班
 }
