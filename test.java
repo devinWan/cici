@@ -10,11 +10,7 @@ class Test{
         System.out.println("hello testB");
     }
 
-    public static void test(){
-        System.out.println("test");
-    public static void testc(){
-        System.out.println("hello testc");
-    }
+    
 
     public static void testAfter(){
         System.out.println("hello testAfter");
