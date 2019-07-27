@@ -12,5 +12,7 @@ class Test{
 
     public static void test(){
         System.out.println("test");
+    public static void testc(){
+        System.out.println("hello testc");
     }
 }
