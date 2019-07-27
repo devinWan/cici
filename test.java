@@ -15,4 +15,11 @@ class Test{
     public static void testc(){
         System.out.println("hello testc");
     }
+
+    public static void testAfter(){
+        System.out.println("hello testAfter");
+    }
+    public static void testAfter2(){
+        System.out.println("hello testAfter2");
+    }
 }
