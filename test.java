@@ -9,4 +9,8 @@ class Test{
     public static void testB(){
         System.out.println("hello testB");
     }
+
+    public static void testc(){
+        System.out.println("hello testc");
+    }
 }
