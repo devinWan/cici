@@ -5,4 +5,8 @@ class Test{
     public static void testA(){
         System.out.println("hello testA");
     }
+
+    public static void testB(){
+        System.out.println("hello testB");
+    }
 }
